@@ -33,13 +33,13 @@ Check out my portfolio <a>here</a>
 <a href="https://www.linkedin.com/in/skchouhan753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@TechTalk753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
-
-
-### 💬 Let's Connect
-Feel free to reach out if you have any questions, suggestions, or just want to connect and chat about technology, coding, or anything else!
 <p align="left">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /><p>s.k.chouhan753@gmail.com</p>
 </p>
+
+### 💬 Let's Connect
+Feel free to reach out if you have any questions, suggestions, or just want to connect and chat about technology, coding, or anything else!
+
 ---
 
 
