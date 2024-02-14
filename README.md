@@ -22,10 +22,6 @@
 - [Project 2](link-to-project-2): Brief description or tagline.
 - [Project 3](link-to-project-3): Brief description or tagline.
 
-### 📫 Get in Touch
-- LinkedIn: [Subhash Kumar Chouhan](https://www.linkedin.com/in/subhashkumarchouhan/)
-- Twitter: [@subhash_dev](https://twitter.com/subhash_dev)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/skchouhan753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
