@@ -21,7 +21,7 @@
 
 
 ### 🚀 Projects
-- [Project 1](https://github.com/Skchouhan753/software-kalaakar-5678.git): Brief description or tagline.
+- [Project 1](https://github.com/Skchouhan753/software-kalaakar-5678.git): Edusprint is a learning platform where you can explore and take courses from some of the best-known universities worldwide. It includes features such as login, sign-up, course, and profile pages. The platform is implemented using HTML, CSS, JavaScript, React, and Redux. Additionally, for external styling, we utilized Chakra UI for a better user interface.
 - [Project 2](link-to-project-2): Brief description or tagline.
 - [Project 3](link-to-project-3): Brief description or tagline.
 
