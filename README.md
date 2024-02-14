@@ -21,7 +21,7 @@
 
 
 ### 🚀 Projects
-- [Project 1]([link-to-project-1](https://github.com/Skchouhan753/software-kalaakar-5678)): Brief description or tagline.
+- [Project 1](Skchouhan753/software-kalaakar-5678): Brief description or tagline.
 - [Project 2](link-to-project-2): Brief description or tagline.
 - [Project 3](link-to-project-3): Brief description or tagline.
 
