@@ -18,6 +18,7 @@
 - **Others:** [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#) [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](#) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](#) [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
 
 Check out my portfolio <a>here</a>
+[GitHub Pages](https://pages.github.com/).
 
 ### 🚀 Projects
 - [EduSprint](https://github.com/Skchouhan753/software-kalaakar-5678.git):<br/>
