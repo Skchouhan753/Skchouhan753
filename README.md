@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm SUBHASH KUMAR CHOUHAN</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&height=80&lines=A+passionate+Full+Stack+Web+Deeloper)](https://git.io/typing-svg)</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&height=80&lines=A+passionate+Full+Stack+Web+Deeloper)](https://git.io/typing-svg)
 
 
 
