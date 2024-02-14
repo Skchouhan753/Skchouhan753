@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm SUBHASH KUMAR CHOUHAN</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&height=80&lines=A+passionate+Full+Stack+Web+Deeloper" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&center=true&vCenter=true&random=false&width=800&height=80&lines=A+passionate+Full+Stack+Web+Deeloper" alt="Typing SVG" /></a>
 
 
 👋 Hi there! Welcome to my GitHub profile! I'm Subhash Kumar Chouhan, a passionate full-stack developer with a keen interest in creating high-quality software solutions. I love building applications that are not only functional but also user-friendly and efficient.
