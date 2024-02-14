@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=32FF6500&random=false&width=435&lines=Hi+there!Subhash+Kumar+Chouhan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=I+am+SUBHASH+KUMAR+CHOUHAN)](https://git.io/typing-svg)
 
-
-# Subhash Kumar Chouhan
 ### Full Stack Developer | Passionate about crafting clean and efficient code
 
 👋 Hi there! Welcome to my GitHub profile! I'm Subhash Kumar Chouhan, a passionate full-stack developer with a keen interest in creating high-quality software solutions. I love building applications that are not only functional but also user-friendly and efficient.
