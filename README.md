@@ -32,7 +32,7 @@ Check out my portfolio <a>here</a>
 <p align="left">
 <a href="https://www.linkedin.com/in/skchouhan753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashutosh mishra" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@TechTalk753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/@TechTalk753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
+  <a href="s.k.chouhan753@gmail.com" target="blank"><img align="center" src="https://github.com/Skchouhan753/Skchouhan753/assets/104707355/0403a9f4-62f1-430d-8912-4c86bfb7978c" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
 
