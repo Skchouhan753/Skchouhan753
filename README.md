@@ -23,7 +23,7 @@ Check out my portfolio <a>here</a>
 ### 🚀 Projects
 - [EduSprint](https://software-kalaakar-5678.netlify.app/):<br/>
   Edusprint is a learning platform where you can explore and take courses from some of the best-known universities worldwide. It includes features such as login, sign-up, course, and profile pages. The platform is implemented using HTML, CSS, JavaScript, React, and Redux. Additionally, for external styling, we utilized Chakra UI for a better user interface.
-- [WonderWave Travels](https://github.com/Skchouhan753/wonderwave-travels): <br/>
+- [WonderWave Travels](https://65cc6d33f3d74d7b4572716b--gregarious-heliotrope-bd40e2.netlify.app/): <br/>
   WonderWave Travels is a responsive website which offers travellers the best India Tour packages, where they can tour almost every part of India with the hand-picked packages given on the website. The website is built using HTML, CSS, and JavaScript during our construct week.
 - [Travel Tourism](https://65cc6a627921187b0f3d6eb4--famous-macaron-90226f.netlify.app/): <br/>
   Traveller is a website for a travel agency. The website contains details about tourist destinations, tour packages. This website allow people to book their dream destination with in their budgets.
