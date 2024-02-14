@@ -31,14 +31,6 @@ Feel free to reach out if you have any questions, suggestions, or just want to c
 ---
 
 
-### 📫 Get in Touch
-- LinkedIn: [Subhash Kumar Chouhan](https://www.linkedin.com/in/subhashkumarchouhan/)
-- Twitter: [@subhash_dev](https://twitter.com/subhash_dev)
-
-### 💬 Let's Connect
-Feel free to reach out if you have any questions, suggestions, or just want to connect and chat about technology, coding, or anything else!
-
-
 ![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ashutosh Mishra</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
