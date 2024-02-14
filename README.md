@@ -34,7 +34,7 @@ Check out my portfolio <a>here</a>
 <a href="https://www.youtube.com/@TechTalk753" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="simplified learner" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://github.com/Skchouhan753/Skchouhan753/assets/104707355/0cc8fd2d-95d7-46e7-86fa-c2797722eecf" alt="simplified learner" height="30" width="40" /><a>s.k.chouhan753@gmail.com</a>
+<img align="center" src="https://github.com/Skchouhan753/Skchouhan753/assets/104707355/0cc8fd2d-95d7-46e7-86fa-c2797722eecf" alt="simplified learner" height="30" width="40" /><a> s.k.chouhan753@gmail.com</a>
 
 
 ### 💬 Let's Connect
