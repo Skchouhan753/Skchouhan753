@@ -1,4 +1,4 @@
-(![blog_image_mern_stck copy](https://github.com/Skchouhan753/Skchouhan753/assets/104707355/adb0341c-0924-4e10-bf21-ec611bec6397)
+![blog_image_mern_stck copy](https://github.com/Skchouhan753/Skchouhan753/assets/104707355/adb0341c-0924-4e10-bf21-ec611bec6397)
 
 <h1 align="center">Hi 👋, I'm SUBHASH KUMAR CHOUHAN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
