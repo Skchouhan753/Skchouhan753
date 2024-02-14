@@ -21,7 +21,7 @@ Check out my portfolio <a>here</a>
 [GitHub Pages](https://pages.github.com/).
 
 ### 🚀 Projects
-- [EduSprint](https://github.com/Skchouhan753/software-kalaakar-5678.git):<br/>
+- [EduSprint](https://software-kalaakar-5678.netlify.app/):<br/>
   Edusprint is a learning platform where you can explore and take courses from some of the best-known universities worldwide. It includes features such as login, sign-up, course, and profile pages. The platform is implemented using HTML, CSS, JavaScript, React, and Redux. Additionally, for external styling, we utilized Chakra UI for a better user interface.
 - [WonderWave Travels](https://github.com/Skchouhan753/wonderwave-travels): <br/>
   WonderWave Travels is a responsive website which offers travellers the best India Tour packages, where they can tour almost every part of India with the hand-picked packages given on the website. The website is built using HTML, CSS, and JavaScript during our construct week.
