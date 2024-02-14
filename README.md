@@ -2,11 +2,8 @@
 <h1 align="center">Hi 👋, I'm SUBHASH KUMAR CHOUHAN</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
+### Hi There! 👋
 
-
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&pause=1000&center=true&vCenter=true&random=false&width=800&height=80&lines=I+am+SUBHASH+KUMAR+CHOUHAN)](https://git.io/typing-svg)
 ### Full Stack Developer | Passionate about crafting clean and efficient code
 
 👋 Hi there! Welcome to my GitHub profile! I'm Subhash Kumar Chouhan, a passionate full-stack developer with a keen interest in creating high-quality software solutions. I love building applications that are not only functional but also user-friendly and efficient.
