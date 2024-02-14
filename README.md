@@ -25,7 +25,7 @@ Check out my portfolio <a>here</a>
   Edusprint is a learning platform where you can explore and take courses from some of the best-known universities worldwide. It includes features such as login, sign-up, course, and profile pages. The platform is implemented using HTML, CSS, JavaScript, React, and Redux. Additionally, for external styling, we utilized Chakra UI for a better user interface.
 - [WonderWave Travels](https://github.com/Skchouhan753/wonderwave-travels): <br/>
   WonderWave Travels is a responsive website which offers travellers the best India Tour packages, where they can tour almost every part of India with the hand-picked packages given on the website. The website is built using HTML, CSS, and JavaScript during our construct week.
-- [Travel Tourism](https://app.netlify.com/sites/famous-macaron-90226f/deploys/65cc6a627921187b0f3d6eb4): <br/>
+- [Travel Tourism](https://65cc6a627921187b0f3d6eb4--famous-macaron-90226f.netlify.app/): <br/>
   Traveller is a website for a travel agency. The website contains details about tourist destinations, tour packages. This website allow people to book their dream destination with in their budgets.
 
 <h3 align="left">Connect with me:</h3>
