@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&background=32FF6500&random=false&width=435&lines=Hi+there!Subhash+Kumar+Chouhan)](https://git.io/typing-svg)
 
-Sure! Here's a template for a GitHub profile README for Subhash Kumar Chouhan, a full-stack developer:
-
----
 
 # Subhash Kumar Chouhan
 ### Full Stack Developer | Passionate about crafting clean and efficient code
