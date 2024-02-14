@@ -1,4 +1,3 @@
-![logo](https://github.com/Skchouhan753/Skchouhan753/assets/104707355/1b99a41b-823b-4a39-995c-850a25691d45)
 ![logo](https://github.com/Skchouhan753/Skchouhan753/assets/104707355/873cae92-962a-4ddd-93e2-4a19a3085c96)
 
 <h1 align="center">Hi 👋, I'm SUBHASH KUMAR CHOUHAN</h1> 
