@@ -4,10 +4,6 @@
 <h1 align="center">Hi 👋, I'm SUBHASH KUMAR CHOUHAN</h1>
 <h3 align="center">A passionate Full Stack Web Deeloper</h3>
 
-### Hi There! 👋
-
-### Full Stack Developer | Passionate about crafting clean and efficient code
-
 👋 Hi there! Welcome to my GitHub profile! I'm Subhash Kumar Chouhan, a passionate full-stack developer with a keen interest in creating high-quality software solutions. I love building applications that are not only functional but also user-friendly and efficient.
 
 🌱 I'm currently exploring new technologies and frameworks to enhance my skills and stay updated with the latest trends in software development.
