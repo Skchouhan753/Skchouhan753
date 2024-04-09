@@ -17,8 +17,8 @@
 - **Databases:** [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)](#)
 - **Others:** [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#) [![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)](#) [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)](#) [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)](#)
 
-Check out my portfolio <a>here</a>
-[GitHub Pages](https://skchouhan753.github.io/).
+Check out my portfolio 
+[<a>here</a>](https://skchouhan753.github.io/).
 
 ### 🚀 Projects
 - [EduSprint](https://software-kalaakar-5678.netlify.app/):<br/>
